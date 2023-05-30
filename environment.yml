@@ -1,4 +1,4 @@
-name: tf_gpu
+name: eda2
 channels:
   - conda-forge
   - defaults
@@ -220,4 +220,4 @@ dependencies:
   - zipp=3.11.0=py39haa95532_0
   - zlib=1.2.13=h8cc25b3_0
   - zstd=1.5.2=h19a0ad4_0
-prefix: C:\Users\rs3753e\Anaconda3\envs\tf_gpu
+prefix: .\envs\eda2
