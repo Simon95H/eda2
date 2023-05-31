@@ -161,3 +161,6 @@ cython_debug/
 
 #Personal
 /X_Daten/
+*.xls
+*.xlsx
+*.cvs
