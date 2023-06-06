@@ -163,4 +163,4 @@ cython_debug/
 /X_Daten/
 *.xls
 *.xlsx
-*.cvs
+*.csv
