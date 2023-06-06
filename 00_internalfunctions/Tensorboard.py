@@ -22,4 +22,3 @@ class TensorBoardThread(threading.Thread):
     def __del__(self):
         self.stop()
         print("DESTROY")
-
