@@ -1,0 +1,1 @@
+# Hier werden sich erstmal alle Hilfsfunktionen finden

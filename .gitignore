@@ -161,6 +161,7 @@ cython_debug/
 
 #Personal
 /X_Daten/
+/Y_projektdaten/
 *.xls
 *.xlsx
 *.csv

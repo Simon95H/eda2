@@ -16,4 +16,9 @@ conda activate eda2
 Prinzipiell arbeitet jeder in seiner Branch. Sobald Änderungen fertig sind und funktionieren werden diese über eine 
 Pullrequest in Github in Main gemergt.
 
-Nach jedem Merge in die Main Branch wechseln und die Änderungen pullen. Danach die eigene Branch rebasen auf Main. 
+Nach jedem Merge in die Main Branch wechseln und die Änderungen pullen. Danach die eigene Branch rebasen auf Main.
+
+
+## Projekt
+
+Die Projektdaten sind in y_projektdaten zu finden. Diese werden aufgrund ihrer Größe über onedrive synchronsiert.
